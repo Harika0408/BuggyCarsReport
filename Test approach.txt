@@ -1,0 +1,42 @@
+Test Approach
+Project Name: Buggy Cars
+
+Test Strategy:
+Date                version      Author       Description
+29-6-2022         1.0          Harika        QA test strategy for buggy cars
+
+
+Scope: which needs to be tested in scope
+            Which needs not to be tested out scope
+
+
+Test approach:
+Smoke Testing
+Types of testing, functional, integration, system testing
+
+
+Test environment: QA environment, chrome browser, version 1.1
+
+Testing Tools: Automation testing tools are selenium web driver, using core java, TestNG framework.
+
+Risk: build for the testing, server down happen, any defect erase that will going to definite track, timeline. Clear plan to risk before test.
+I found critical defects by using buggy cars application.
+
+The critical defects of buggy cars rating is (I assumed bugs).
+
+In this application different images available like popular make, popular model, overall rating.
+1.	If we click on popular make Alfa Romeo symbol it will navigate to new bar, but it is not clickable that images we cannot move further steps, it is a critical bug
+2.	If we click on popular model, it shows it will navigate to new tab and it shows different car rating but it is not highlighting high rated votes so it is critical bug
+
+
+
+
+
+
+
+
+
+
+
+
+
